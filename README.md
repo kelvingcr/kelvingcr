@@ -20,7 +20,11 @@
   <a href="https://i.imgur.com/J9yKqjQ.png"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://imgur.com/cnGXYrN.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-
-
-
 <p align="center" style="color: grey; font-style: italic;"> "Se eu não for o melhor, quero ser o mais dedicado."</p>
+
+##  📘 My projects portfolio
+
+<p align="left">
+  <a href="https://github.com/kelvingcr/os-api"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kelvingcr&repo=os-api&theme=react&bg_color=1F222E&title_color=539BF5&icon_color=EC9F05&hide_border=true&show_icons=true" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/kelvingcr/kelvingcr.github.io"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kelvingcr&repo=kelvingcr.github.io&theme=react&bg_color=1F222E&title_color=539BF5&icon_color=EC9F05&hide_border=true&show_icons=fals" alt="github-readme-streak-stats"></a>
+</p>
