@@ -9,22 +9,18 @@
 
 <!-- Social icons section -->
 <p align="center">
-  
-  <a href="https://www.youtube.com/channel/UC0N3Q31SZXvjtvSvkk5jxtw"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/H6uzMGY.png"/></a>
+  <a href="https://www.youtube.com/channel/UC0N3Q31SZXvjtvSvkk5jxtw"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/H6uzMGY.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  
-  <a href=""><img width="32px" alt="Twitter" title="Twitter" src="https://imgur.com/QI2XLwQ.png"/></a>
+  <a href=""><img width="32px" alt="Twitter" title="Twitter" src="https://imgur.com/QI2XLwQ.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  
-  <a href="" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/LovBYLm.png"/></a>
+  <a href="" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/LovBYLm.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-
-  <a href=""><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/cpVcbjA.png"/></a>
+  <a href=""><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/cpVcbjA.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  
-  <a href="https://i.imgur.com/J9yKqjQ.png"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://imgur.com/cnGXYrN.png"/></a>
-  
+  <a href="https://i.imgur.com/J9yKqjQ.png"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://imgur.com/cnGXYrN.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
+
 
 
 <p align="center" style="color: grey; font-style: italic;"> "Se eu não for o melhor, quero ser o mais dedicado."</p>
