@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to my profile!
+  Seja bem vindo ao meu Perfil!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -22,7 +22,7 @@
 </p>
 <p align="center" style="color: grey; font-style: italic;"> "Se eu não for o melhor, quero ser o mais dedicado."</p>
 
-##  📘 My projects portfolio
+##  📘 Meus projetos/portfólio 
 
 <p align="left">
   <a href="https://github.com/kelvingcr/os-api"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kelvingcr&repo=os-api&theme=react&bg_color=1F222E&title_color=539BF5&icon_color=EC9F05&hide_border=true&show_icons=true" alt="github-readme-streak-stats"></a>
