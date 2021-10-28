@@ -17,7 +17,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href=""><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/cpVcbjA.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://i.imgur.com/J9yKqjQ.png"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://imgur.com/cnGXYrN.png"></a>
+  <a href="https://www.linkedin.com/in/kelvingcr/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://imgur.com/cnGXYrN.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <p align="center" style="color: grey; font-style: italic;"> "Se eu não for o melhor, quero ser o mais dedicado."</p>
