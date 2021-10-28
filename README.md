@@ -22,10 +22,16 @@
 </p>
 <p align="center" style="color: grey; font-style: italic;"> "Se eu não for o melhor, quero ser o mais dedicado."</p>
 
-##  📘 Meus projetos/portfólio 
+##  📘 Meus portfólio 
 
 <p align="left">
   <a href="https://github.com/kelvingcr/os-api"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kelvingcr&repo=os-api&theme=react&bg_color=1F222E&title_color=539BF5&icon_color=EC9F05&hide_border=true&show_icons=true" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/kelvingcr/kelvingcr.github.io"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kelvingcr&repo=kelvingcr.github.io&theme=react&bg_color=1F222E&title_color=539BF5&icon_color=EC9F05&hide_border=true&show_icons=fals" alt="github-readme-streak-stats"></a>
    <a href="https://github.com/kelvingcr/javafx-spring-boot"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kelvingcr&repo=javafx-spring-boot&theme=react&bg_color=1F222E&title_color=539BF5&icon_color=EC9F05&hide_border=true&show_icons=fals alt="github-readme-streak-stats"></a>
 </p>
+     
+<div style="display: inline_block"><br>
+  <img align="center" alt="Kelvin-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+   <img align="center" alt="Kelvin-spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+        <img align="center" alt="Kelvin-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</div>
