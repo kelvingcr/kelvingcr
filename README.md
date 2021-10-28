@@ -30,8 +30,8 @@
    <a href="https://github.com/kelvingcr/javafx-spring-boot"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kelvingcr&repo=javafx-spring-boot&theme=react&bg_color=1F222E&title_color=539BF5&icon_color=EC9F05&hide_border=true&show_icons=fals alt="github-readme-streak-stats"></a>
 </p>
      
-<div align="left">
+<div align="center">
   <a href="https://github.com/kelvingcr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelvingcr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvingcr&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kelvingcr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvingcr&layout=compact&langs_count=7&theme=dracula"/>
 </div>
