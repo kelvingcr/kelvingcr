@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Backend+Developer;I+love+java+%E2%9D%A4;I+love+UI+%E2%9D%A4"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&center=true&lines=Programador+Mobile+Jr.;UI+DESIGN+%7C+JAVA+%7C+KOTLIN"></a>
 </p>
 
 <!-- Social icons section -->
