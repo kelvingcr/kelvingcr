@@ -4,18 +4,14 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&center=true&lines=Programador+Mobile+Jr.;UI+DESIGN+%7C+JAVA+%7C+KOTLIN"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&center=true&lines=Programador+Android+Jr"></a>
 </p>
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/channel/UC0N3Q31SZXvjtvSvkk5jxtw"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/H6uzMGY.png"></a>
+  <a href="https://api.whatsapp.com/send?phone=5513988841491&text=Olá eu te achei no github"><img width="32px" alt="Twitter" title="Whatsapp" src="https://imgur.com/CUInNXM.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="32px" alt="Twitter" title="Twitter" src="https://imgur.com/QI2XLwQ.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/LovBYLm.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/cpVcbjA.png"></a>
+  <a href="instagram.com/kelviinbs/"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/M6yBwxS.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/kelvingcr/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://imgur.com/cnGXYrN.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
