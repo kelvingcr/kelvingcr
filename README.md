@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://api.whatsapp.com/send?phone=5513988841491&text=Olá eu te achei no github"><img width="32px" alt="Twitter" title="Whatsapp" src="https://imgur.com/CUInNXM.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="instagram.com/kelviinbs/"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/M6yBwxS.png"></a>
+  <a href="https://instagram.com/kelviinbs/"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/M6yBwxS.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/kelvingcr/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://imgur.com/cnGXYrN.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
