@@ -16,10 +16,18 @@
   <a href="https://www.linkedin.com/in/kelvingcr/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://imgur.com/cnGXYrN.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-<p align="center" style="color: grey; font-style: italic;"> "Se eu não for o melhor, quero ser o mais dedicado."</p>
 
 <div align="center">
   <a href="https://github.com/kelvingcr">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kelvingcr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvingcr&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+
+#### Meus projetos
+
+<p align="start">
+  <a href="https://github.com/kelvingcr"><img width="64px" alt="Twitter" title="Easy Market" src="https://i.imgur.com/c6verIg.png"></a>
+  &#8287;&#8287;&#8287;
+</p>
+
