@@ -27,7 +27,7 @@
 #### Meus projetos
 
 <p align="start">
-  <a href="https://github.com/kelvingcr"><img width="64px" alt="Twitter" title="Easy Market" src="https://i.imgur.com/c6verIg.png"></a>
+  <a href="https://github.com/kelvingcr/easymarket"><img width="64px" alt="Twitter" title="Easy Market" src="https://i.imgur.com/c6verIg.png"></a>
   &#8287;&#8287;&#8287;
 </p>
 
