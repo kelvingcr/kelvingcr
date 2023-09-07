@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Um jovem de 21 aninhos apaixonado por programação, na verdade, pelo Android.
+Um jovem de 21 anos apaixonado por programação, na verdade, pelo Android & Interfaces modernas.
 
 **Atualmente:** Estou disponivel para contratação imediata.
 
